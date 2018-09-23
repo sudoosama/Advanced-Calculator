@@ -36,3 +36,5 @@ This function is the most advanced function of this calculator, this function al
 loop in order to find a value of x when function of x is given the scope is set to n
 numbers which will be asked to the user, and he sets the scope to his wish and function
 calculates the function of x till that value.
+
+Algorithm/Pseudo Code and Flowchart of all function working is avaliable in Project Word documents

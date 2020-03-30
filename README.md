@@ -20,7 +20,7 @@ perform while solving the problem.
 
 **BASIC CALCULATIONS:**
 
-#BINARY TO DECIMAL CONVERSION:
+**BINARY TO DECIMAL CONVERSION:**
 This function will give the decimal value when the system ask you to enter the binary
 value,in this function we have used the loops with proper operator proceedings
 regarding calculations.

@@ -1,5 +1,5 @@
-# Advanced-Calculator
-Easy to Perform Binary to Decimal / Decimal to Binary / Hexa to Binary / Binary to Hexa / Equation
+## Advanced-Calculator
+#Easy to Perform Binary to Decimal / Decimal to Binary / Hexa to Binary / Binary to Hexa / Equation
 
 PROBLEM DEFINITION:
 These days our generation is moving towards advance technology that’s why we
@@ -16,25 +16,34 @@ The calculator is written in c language and you are welcome to view the source c
 this calculator.
 This program also uses math.h library function to perform specific which it wants to
 perform while solving the problem.
-BASIC CALCULATIONS:
-BINARY TO DECIMAL CONVERSION:
+
+
+##BASIC CALCULATIONS:
+
+#BINARY TO DECIMAL CONVERSION:
 This function will give the decimal value when the system ask you to enter the binary
 value,in this function we have used the loops with proper operator proceedings
 regarding calculations.
-DECIMAL TO BINARY CONVERSION:
+
+
+#DECIMAL TO BINARY CONVERSION:
 This program also include a function of decimal to binary, we have used loops in this
 function because to covert the number we must use to loop to reduce the value
 therefore to convert it.
 
-HEXADECIMAL CONVERSION:
+#HEXADECIMAL CONVERSION:
 There are two functions regarding this statement one will convert the binary number to
 decimal and other functions will operates vice versa, in this case we have used the loop
 structure and cases as well to indicate that the hexadecimal values from 10 onwards are
 indicated by A to F till 15.
-EQUATION:
+
+
+#EQUATION:
 This function is the most advanced function of this calculator, this function also used a
 loop in order to find a value of x when function of x is given the scope is set to n
 numbers which will be asked to the user, and he sets the scope to his wish and function
 calculates the function of x till that value.
 
-Algorithm/Pseudo Code and Flowchart of all function working is avaliable in Project Word documents
+#Algorithm/Pseudo Code and Flowchart of all function working is avaliable in Project Word documents
+
+Connect me on LinkedIn: https://www.linkedin.com/in/hassan-osama-464a76196/
